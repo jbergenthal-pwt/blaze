@@ -297,6 +297,8 @@ Template.listing.onRendered(function () {
 });
 ```
 
+{% apibox "Blaze.TemplateInstance#subscriptionsReady" %}
+
 {% apibox "Blaze.TemplateInstance#view" %}
 
 {% apibox "Template.registerHelper" %}
